@@ -1,2 +1,2 @@
 # Ping-Pong.py
-Game construído com linguagem python
+Game construído com linguagem Python;
